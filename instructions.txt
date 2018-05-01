@@ -1,0 +1,10 @@
+Hello To start the project all you have to do is:
+1) Install all the requirements from requirements.txt
+2) Project is built using python version 2.7 in Linux System. Please use it.
+3) Execute "gui.py" as "python gui.py"
+4) File "client_secret.json" is also avaliable in the project for Google API Oauth2 Client
+
+In case You will need authentication. Just manually copy the auth link from terminal window and 
+paste in browser and allow the permissions . File "mg_db.db" is an sqlite3 database to store the
+information. I have not tested it at every platform due to limited resources as but it works well 
+That's all you have to do. Please let me know if you need more information. Thank You
